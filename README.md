@@ -1,1 +1,2 @@
-# CSIT5800_Human_mitoDNA_Geo-correlation
+# CSIT5800 Geo-correlation of human mitochondrial DNA
+
